@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yoabo001
-- 👀 I’m interested in Many information technology fields but am now working on myself improving my python skills in Natural language processing 
-- 🌱 I’m currently learning Python, Natural langugae processing(Spacy, nltk) , Object oriented Programming (c++)
+- 👀 I’m interested in Many information technology fields but am now working on myself improving my programming skills in Python, PHP and C++ using Github to track my progress
+- 🌱 I’m currently learning PHP. Improving Python, Natural langugae processing(Spacy, nltk) , Object oriented Programming (c++)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : yusuf.abosobei3@gmail.com
 
